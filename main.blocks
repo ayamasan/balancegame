@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="VE0.1b9/uHe3kL1y_|sc" x="0" y="0"><statement name="HANDLER"><block type="bluetooth_start_uart_service" id="}1d!D753~N6URQ]ex*Rc"></block></statement></block><block type="device_forever" id="A=Gn|*Cg2*^bCIDxf)g3" x="8" y="356"></block></xml>
